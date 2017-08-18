@@ -1,0 +1,16 @@
+{
+  "name": "document-scanning",
+  "version": "1.0.0",
+  "description": "Document Scanning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anju",
+  "license": "ISC",
+  "dependencies": {
+    "dwt": "^13.0.0",
+    "express": "^4.15.4",
+    "usb": "^1.2.0"
+  }
+}
